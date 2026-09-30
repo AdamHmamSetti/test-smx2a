@@ -7,5 +7,5 @@ Per proporcionar una connexió a Internet estable i amb una capacitat elevada, e
 La infraestructura de xarxa estarà formada principalment per un servidor central, switches, punts d’accés Wi-Fi i connexions Ethernet. Els ordinadors gaming i altres dispositius que necessitin una connexió estable es connectaran preferentment mitjançant cable Ethernet, mentre altres equips podran utilitzar la xarxa Wi-Fi.
 
 Com a sistema operatiu principal dels servidors utilitzarem Ubuntu Server, basat en el kernel Linux. Aquest sistema permetrà gestionar diferents serveis de xarxa, usuaris, permisos, seguretat, monitorització i administració de la infraestructura.
-![Game Truck](/c/Users/adhse/OneDrive/Imágenes/camion.jpg)
+![Game Truck](camion.jpg)
 
